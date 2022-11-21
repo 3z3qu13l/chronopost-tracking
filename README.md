@@ -43,16 +43,15 @@ console.log(await tracking.getTracking('XV297889338KL'));
         text: "Colis en cours de préparation chez l'expéditeur",
         location: undefined
     }, {
-        datetime: "2022-11-07T21:37:00.000Z",
+        datetime: "2022-06-03T09:45:00.000Z",
         text: 'Prise en charge de votre colis sur notre site logistique de HUB LYON.',
         location: 'HUB LYON'
-    },
-    {
+    }, {
         datetime: "2022-06-03T05:05:00.000Z",
         text: "Tri effectué dans l'agence de distribution",
         location: undefined
     }, {
-        datetime: "2022-11-07T16:31:00.000Z",
+        datetime: "2022-06-03T09:42:00.000Z",
         text: 'Colis en cours de livraison au point de retrait',
         location: undefined
     }, {
