@@ -1,6 +1,6 @@
 {
   "name": "chronopost-tracking",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chronopost to get delivery tracking informations",
   "engines": {
     "node": ">= 18"
@@ -15,5 +15,11 @@
   },
   "author": "3z3qu13l",
   "license": "ISC",
+  "keywords": [
+    "chronopost",
+    "node",
+    "tracking"
+  ],
+  "homepage": "https://github.com/3z3qu13l/chronopost-tracking/blob/master/README.md",
   "dependencies": {}
 }

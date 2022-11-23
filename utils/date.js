@@ -24,7 +24,7 @@ const { MILLISEC_IN_DAYS } = require('./constants');
  */
  const toDate = (dateRaw) => {
     if (!dateRaw) {
-        logger.error(`Missing param dateRaw`);
+        console.error(`Missing param dateRaw`);
         return new Date();
     }
 
