@@ -1,6 +1,6 @@
 {
   "name": "chronopost-tracking",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Chronopost to get delivery tracking informations",
   "engines": {
     "node": ">= 18"

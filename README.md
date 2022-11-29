@@ -36,8 +36,8 @@ console.log(await tracking.getTracking('XV297889338KL'));
     currentStatus: "Livraison effectuée",
     duration: 4,
     isComplete: true,
-    lastUpdated: "2022-06-03T16:23:00.000Z",
-    created: "2022-05-31T03:08:00.000Z",
+    lastDate: "2022-06-03T16:23:00.000Z",
+    startDate: "2022-05-31T03:08:00.000Z",
     history: [{
         datetime: "2022-05-31T03:08:00.000Z",
         text: "Colis en cours de préparation chez l'expéditeur",
